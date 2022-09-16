@@ -4,7 +4,7 @@
 ## Установка и запуск
 1. Склонировать репозиторий с Github:
 ```
-https://github.com/Styazhko/search_job
+https://github.com/Styazhko/blog
 ```
 2. Перейти в директорию проекта
 3. Создать виртуальное окружение:
